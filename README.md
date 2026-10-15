@@ -2,7 +2,7 @@
 
 ### ECE (AI/ML) Engineer | Machine Learning | Software Development
 
-I'm a third-year B.Tech Electronics and Communication Engineering (AI/ML) student at MIT World Peace University, Pune.
+I'm a Final-year B.Tech Electronics and Communication Engineering (AI/ML) student at MIT World Peace University, Pune.
 
 I enjoy building AI-powered applications, computer vision systems, and full-stack projects.
 
